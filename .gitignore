@@ -1,0 +1,4 @@
+node_modules/
+data/records.json
+data/records.json.tmp
+npm-debug.log*
